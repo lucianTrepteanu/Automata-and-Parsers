@@ -1,0 +1,31 @@
+abcdecg
+S
+6
+a
+b
+c
+d
+e
+g
+8
+S
+A
+B
+C
+D
+E
+F
+G
+17
+S AB
+B BC
+B FA
+B b
+C DA
+A GE
+A a
+F b
+D e
+E d
+E g
+G c

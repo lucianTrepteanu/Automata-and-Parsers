@@ -1,0 +1,28 @@
+S -> S -> 1
+NP -> A -> 2
+VP -> B -> 3
+PP -> C -> 4
+P -> D -> 5
+N -> E -> 6
+V -> F -> 7
+Det -> G -> 8
+
+S-> A | B
+B-> B | C
+B-> F | A
+B-> b
+C-> D | A
+A-> G | E
+A-> a
+F-> b
+D-> e
+E-> d
+E-> g
+G-> c
+
+she -> a
+eats -> b
+a -> c
+fish -> d
+with -> e
+fork -> g

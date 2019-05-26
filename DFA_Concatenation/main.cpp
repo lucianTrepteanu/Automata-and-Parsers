@@ -1,6 +1,3 @@
-/*
-	Code is a mess, but it still works (:
-*/
 
 #include <bits/stdc++.h>
 using namespace std;
